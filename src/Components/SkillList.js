@@ -2,9 +2,9 @@ import Skill from "./Skill";
 
 const skills = [
     { skill: "Web Design", level: "Professional", color: "#7FFF00" },
-    { skill: "React Js", level: "Intermediate", color: "yellow" },
-    { skill: "OOP", level: "Advanced", color: "#5F9EA0" },
-    { skill: "Graphic Design", level: "Intermediate", color: "skyblue" }
+    { skill: "React Js", level: "Intermediate", color: "skyblue" },
+    { skill: "OOP", level: "Advanced", color: "#ffb366" },
+    { skill: "Graphic Design", level: "Intermediate", color: "#4dffc3" }
     
   ];
 

@@ -1,14 +1,14 @@
 import React from "react";
-import Avatar from "./Avatar";
-import Info from "./Info";
+import Photo from "./Photo";
+import Information from "./Information";
 import SkillList from "./SkillList";
 
 export default function App() {
   return (
     <div className="card">
-      <Avatar />
+      <Photo />
       <div className="data">
-        <Info />
+        <Information />
         <SkillList />
       </div>
     </div>

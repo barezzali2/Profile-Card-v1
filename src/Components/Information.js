@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Info() {
+export default function Information() {
     return (
       <React.Fragment>
         <h1>Barez Zuber Ali </h1>
